@@ -1,6 +1,6 @@
 
 # Rapport: Comment Amazon génère des bénéfices grâce à l'IA dans les services financiers
-
+ 
 ## C'est qui Amazon ?
 
 Amazon est devenu un leader incontesté dans l'adoption de l'intelligence artificielle au sein de ses opérations financières, transformant radicalement la manière dont l'entreprise génère et optimise ses bénéfices. En 2026, Amazon prévoit d'investir 200 milliards de dollars dans l'infrastructure IA, principalement via Amazon Web Services (AWS), qui a généré 35,58 milliards de dollars de revenus au Q4 2025, soit une croissance de 24% en glissement annuel.
